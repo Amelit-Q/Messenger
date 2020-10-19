@@ -1,0 +1,11 @@
+First of all - Say Hi to a new user. By a prompt! 
+This Component will render before the whole app will render. I will use useEffect hook for that - done
+
+second one: I have to create a function which will allow to input a message
+Just handlesubmit form trivial task - done
+
+Content Centered - Done
+
+Next step will be create a new Card component (with material UI help)
+What is really important - know how to deal with form
+Because if you don't write on the button type of the button it will reload the whole page and don't even submit change
